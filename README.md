@@ -1,2 +1,2 @@
 # 302-test
-Test repo.
+I have a repo with a Colab notebook: woot!
